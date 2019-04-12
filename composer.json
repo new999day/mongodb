@@ -1,8 +1,9 @@
 {
-    "name": "analogue/mongodb",
+    "name": "new999day/mongodb",
     "description": "MongoDB Driver for Analogue ORM",
     "keywords": ["orm", "datamapper", "laravel", 
     "entity", "mongodb", "mapper"],
+    "version" : "1.0",
     "homepage": "http://github.com/analogueorm/mongodb",
     "license": "MIT",
     "authors": [
@@ -42,8 +43,6 @@
             "tests/helpers.php"
         ]
     },
-    "minimum-stability": "dev",
-    "prefer-stable":true,
     "extra": {
         "laravel": {
             "providers": [
